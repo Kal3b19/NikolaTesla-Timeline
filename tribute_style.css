@@ -2,7 +2,7 @@
     margin: 0;
 }
 .nikola{
-    background-image: url("../nikola_images/nikola_backgroound.jpeg");
+    background-image: url("nikola_images/nikola_backgroound.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
@@ -87,7 +87,7 @@
 
 @media (min-width: 650px) {
     .nikola{
-        background-image: url("../nikola_images/nikola_backgroound.jpeg");
+        background-image: url("nikola_images/nikola_backgroound.jpeg");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100%;
@@ -120,7 +120,7 @@
 
 @media (min-width: 1300px){
     .nikola{
-        background-image: url("../nikola_images/nikola_backgroound.jpeg");
+        background-image: url("nikola_images/nikola_backgroound.jpeg");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100%;
