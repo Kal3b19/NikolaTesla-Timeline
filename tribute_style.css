@@ -123,7 +123,7 @@
     margin: 25px;
 }
 
-@media (min-width: 650px) {
+@media only screen and (max-width: 600px)  {
     .nikola{
         background-image: url("nikola_images/nikola_backgroound.jpeg");
         background-repeat: no-repeat;
